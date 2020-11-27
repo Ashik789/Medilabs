@@ -1,0 +1,13 @@
+.radius{border-radius: 7px;}
+.work-time p span{float: right;}
+.work-time p{margin-bottom: 10px;}
+.work-time .over-image-card-text{width: 100%;}
+.footer-logo{margin-bottom: 10px;}
+.footer-logo img{max-height: 100px;}
+.footer-special li{list-style: none; font-size: 14px; line-height: 24px; margin-bottom: 8px;}
+.footer-bottom span{padding: 0px 10px;}
+
+
+@media  (max-width: 767px){
+    .quickLinks .col > .link{min-height: inherit; padding: 5px 12px;}
+}
