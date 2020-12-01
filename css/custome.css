@@ -10,4 +10,5 @@
 
 @media  (max-width: 767px){
     .quickLinks .col > .link{min-height: inherit; padding: 5px 12px;}
+    #mainSlider .slide-content{padding-bottom: 30px;}
 }
