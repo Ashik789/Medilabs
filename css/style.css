@@ -6466,7 +6466,7 @@ h6 {
 
 .breadcrumbs {
   font-size: 13px;
-  line-height: 18px; }
+  line-height: 18px; text-align: right;}
   .breadcrumbs, .breadcrumbs a {
     color: #9b9b9b; }
   .breadcrumbs > * {
@@ -6701,7 +6701,7 @@ body:not(.touch) .btn-hover-fill:hover {
 
 .btn-gradient, body:not(.touch) .btn-gradient:focus {
   border: 0;
-  background-image: linear-gradient(to right, #53b147 0%, #6c94d9 100%);
+  background: #53b147;
   background-repeat: repeat-x;
   color: #fff;
   box-shadow: none; }

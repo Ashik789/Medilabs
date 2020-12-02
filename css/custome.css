@@ -6,7 +6,12 @@
 .footer-logo img{max-height: 100px;}
 .footer-special li{list-style: none; font-size: 14px; line-height: 24px; margin-bottom: 8px;}
 .footer-bottom span{padding: 0px 10px;}
-
+.about-us .header-content{position: relative; top:0px; background: rgba(0, 0, 0, 0.75);}
+.about-us .header-content.stuck{position: fixed; background:#fff;}
+.about-us .sticky-wrapper{background:url(../images/inner-bgm.jpg) no-repeat; background-size:100%;}
+.border-radius5{border-radius: 5px;}
+.mt-top30{margin-top:30px;}
+.mr-bot50{margin-bottom: 50px;}
 
 @media  (max-width: 767px){
     .quickLinks .col > .link{min-height: inherit; padding: 5px 12px;}
