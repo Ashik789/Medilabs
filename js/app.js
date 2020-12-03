@@ -735,7 +735,7 @@ $(function () {
 				itemSelector: '.gallery-item',
 				masonry: {
 					columnWidth: '.gallery-item',
-					gutter: 30
+					gutter: 15
 				}
 			});
 			setTimeout(function () {
